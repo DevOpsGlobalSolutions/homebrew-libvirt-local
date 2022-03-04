@@ -1,4 +1,4 @@
-class libvirt < Formula
+class Libvirt < Formula
     desc "C virtualization API"
     homepage "https://libvirt.org/"
     url "https://libvirt.org/sources/libvirt-8.0.0.tar.xz"
